@@ -22,11 +22,11 @@ Si (x==y) son iguales
 Si (x>y) x es mayor a Y
 ...
 ### Suma de varios números
-####Descripcion del problema
+#### Descripcion del problema
 ...
 En este programa el usuario ingresa dos números de la misma  manera sumar esto nos puede servir en números muy grandes es la facilidad que podemos tener al crear un programa como este.
 ...
-####Funcionalidad
+#### Funcionalidad
 ...
 Float sa_n,sa_cv,sa_c=0,sa_t=0;
 ingrese los valores:sa_n;
@@ -39,11 +39,11 @@ while(sa_c<sa_cv);
 El resultado de la suma es igual a :sa_t;
 ...
 ### Calculo de la edad 
-####Descripcion del problema
+#### Descripcion del problema
 ...
 En este programa nos permite que por medio de el ingreso de nuestra fecha de nacimiento y la fecha actual calcular la edad de una persona con días años y meses  al ingresar se realizan las operaciones comunes como restar y sumar  de esta manera obtenemos un resultado óptimo. 
 ...
-####Funcionalidad
+#### Funcionalidad
 ...
 ingrese el año actual: sa_ac;
 ingrese el mes actual: sa_mc;
@@ -59,11 +59,11 @@ mes: "<<sa_m<<endl;
 dia:"<<sa_d<<endl;
 ...
 ### Punto de venta 
-####Descripcion del problema
+#### Descripcion del problema
 ...
 En este programa podemos realizar la siguiente función que es realizar la factura de dichos productos que adquirimos en cualquier lugar de ventas  ingresar los valores de los productos a comprar y realizando los diferentes cálculos como sumar restar multiplicar dividir etc.
 ...
-####Funcionalidad
+#### Funcionalidad
 ...
 float sa_pd,sa_cm,sa_iv,sa_vp,sa_c=0,sa_ttp=0,sa_des,sa_vb1,sa_v
 b2,sa_vd,sa_vi;
@@ -81,11 +81,11 @@ El descuento es de: "<<sa_des
 Elvalor total a pagar es de: "<<sa_vp
 ...
 ### Cuenta moneda
-####Descripcion del problema
+#### Descripcion del problema
 ...
 Este programa consiste en la contabilización de monedas de diferentes denominaciones en este caso solo de 2 la cual es la moneda de 10 cntvs y 25 cntvs. 
 ...
-####Funcionalidad
+#### Funcionalidad
 ...
 int sa_num,sa_c=0,sa_c1=0, sa_c2=0;
 float sa_x, sa_t=0,sa_t1=0,sa_t2=0,sa_mn=0.10;                 
